@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*Css document */
+
+.hidden{
+	display: none;
+}
+
+body{
+	font-family:"Times New Roman",Times,serif;
+	font-size:14px;
+	color:#000000;
+	
+}
+
